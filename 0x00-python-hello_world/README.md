@@ -7,4 +7,4 @@
 6. Concatenating Strings using the addition sign.
 7. Using the list funtion to select words in a string.
 8. Printing a selected word.
-9. Printing long statements.
+9. Printing The Zen of Python by using Import this.
