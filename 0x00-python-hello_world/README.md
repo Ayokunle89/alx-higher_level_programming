@@ -5,3 +5,4 @@
 4. Using the F-String function to print a float stored in a variable.
 5. Getting more familiar with the string.
 6. Concatenating Strings using the addition sign.
+7. Using the list funtion to select words in a string.
