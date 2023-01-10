@@ -6,3 +6,4 @@
 5. Getting more familiar with the string.
 6. Concatenating Strings using the addition sign.
 7. Using the list funtion to select words in a string.
+8. Printing a selected word.
